@@ -1,0 +1,7 @@
+{
+    "opensciencegrid.name": "RASPA",
+    "opensciencegrid.description": "General purpose classical simulation package. It can be used for the simulation of molecules in gases, fluids, zeolites, aluminosilicates, metal-organic frameworks, carbon nanotubes and external fields.",
+    "opensciencegrid.url": "https://github.com/iraspa/RASPA2",
+    "opensciencegrid.category": "Tools",
+    "opensciencegrid.definition_url": "https://github.com/opensciencegrid/osgvo-raspa2"
+}
